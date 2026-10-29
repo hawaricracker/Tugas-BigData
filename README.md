@@ -76,6 +76,11 @@ Jalankan sel secara berurutan. Notebook mencari CSV di `data/`, atau `tubes/data
 ├── data/
 │   ├── *.csv            # data mentah OpenAQ per lokasi
 │   └── gabungan.csv     # hasil gabungan (dibuat oleh notebook)
+├── visualisasi/
+|   ├── viz1_distribusi.png
+|   ├── viz2_deret_waktu.png
+|   ├── viz3_pola_harian.png
+|   └── viz4_hubungan.png
 ├── tubes.ipynb          # notebook EDA dan pembersihan
 └── README.md
 ```
